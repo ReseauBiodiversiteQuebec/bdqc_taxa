@@ -15,7 +15,7 @@ CDPNQ_SOURCE_KEY = 1002 # Not in global names so start at 1000
 
 GBIF_SOURCE_NAME = 'GBIF Backbone Taxonomy'
 GBIF_RANKS = ['kingdom', 'phylum', 'class', 'order', 'family',
-                'genus', 'species', 'subspecies', 'variety']
+                'genus', 'species', 'subspecies', 'variety', 'form']
 
 DATA_SOURCES = [1, 3, 147] # COL, ITIS, VASCAN
 
