@@ -11,7 +11,7 @@ from . import wikidata
 ACCEPTED_LANGUAGE = ['fra', 'eng']
 
 GBIF_RANKS = ['kingdom', 'phylum', 'class', 'order', 'family',
-                'genus', 'species', 'subspecies', 'variety']
+                'genus', 'species', 'subspecies', 'variety', 'form']
 
 def rank_order(rank):
     if not rank:
